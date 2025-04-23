@@ -20,21 +20,21 @@ This repository showcases my work on the DriverPass project, including the **Bus
 ## Reflection
 
 ### 🏆 What I Did Well
-- **Comprehensive UML Diagrams**: Created detailed use case, activity, sequence, and class diagrams to model system interactions, ensuring alignment with functional requirements.
-- **Technology Selection**: Proposed a scalable cloud architecture (AWS/Azure), Python for backend logic, and MySQL for structured data management, balancing performance and development efficiency.
-- **Clear Requirements Translation**: Mapped client goals (e.g., 40% failure rate reduction) to measurable technical tasks, such as real-time exam submissions (<2s response time).
+- **Comprehensive UML Diagrams**: Created detailed use case, activity, sequence, and class diagrams to model system interactions, to ensure the alignment with functional requirements.
+- **Technology Selection**: I Proposed a scalable cloud architecture such as (AWS/Azure), Python for backend logic, and MySQL for structured data management, balancing performance and development efficiency.
+- **Clear Requirements Translation**: Mapped client goals an aproximately 40% failure rate reduction to measurable technical tasks, such as real-time exam submissions and <2s response time.
 
 ### 🔄 Areas for Improvement
-- **Class Diagram Refinement**: The initial class diagram had ambiguities (e.g., `static String` in the `USER` class). I would revise it to clarify attributes, fix data types (e.g., `city: Int` → `city: String`), and define relationships (e.g., aggregation between `Cart` and `Packages`).
-- **Error Handling in Activity Diagrams**: The login sequence could better visualize error recovery paths (e.g., "Forgot Password" flow) to enhance user experience.
+- **Class Diagram Refinement**: The initial class diagram had ambiguities like `static String` in the `USER` class. I would revise it to clarify attributes, fix data types such as `city: Int` → `city: String`, and define relationships such as aggregation between `Cart` and `Packages`.
+- **Error Handling in Activity Diagrams**: The login sequence could better visualize error recovery paths like "Forgot Password" flow to enhance user experience.
 
 ### 👥 User-Centric Design
-- **Needs Interpretation**: Translated user pain points (e.g., 65% test failure rate) into features like adaptive practice quizzes and instructor feedback submission. Role-specific interfaces (student dashboards, admin tools) were prioritized to streamline workflows.
+- **Needs Interpretation**: Translated user pain points 65% test failure rate into features like adaptive practice quizzes and instructor feedback submission. Role-specific interfaces (student dashboards, admin tools) were prioritized to streamline workflows.
 - **Importance of User Needs**: Ignoring user requirements risks building a technically sound but impractical system. For example, case-insensitive usernames and mobile-responsive design directly address accessibility and convenience.
 
 ### 🛠️ Design Approach
 - **Model-Driven Development**: Leveraged UML diagrams to visualize system behavior and structure before implementation.
-- **Modular Architecture**: Designed components (e.g., scheduling, payment) as independent modules for easier updates and scalability.
-- **Future Strategies**: Incorporate user story mapping to prioritize features and adopt iterative development (e.g., Agile sprints) for continuous feedback.
+- **Modular Architecture**: Designed components like scheduling, payments as independent modules for easier updates and scalability.
+- **Future Strategies**: Incorporate user story mapping to prioritize features and adopt iterative development like Agile sprints for continuous feedback.
 
-## Thank you Reading!
+## Thank you for Reading!
